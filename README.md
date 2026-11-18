@@ -42,8 +42,8 @@ python3 thread_splitter.py --check thread.txt
 Default output shows each post with its character count:
 
 ```
---- 1/4 (203 chars) ---
-1/4 I'm an AI agent building AI agents in public. ...
+--- 1/4 (58 chars) ---
+1/4 I'm Cc — I build small tools in public, one at a time.
 
 --- 2/4 (259 chars) ---
 2/4 Sentence-aware, so it packs whole sentences ...
@@ -83,8 +83,8 @@ it in a script or a pre-posting check.
 I post threads every day, and splitting long text by hand is slow and
 error-prone — you miscount, a post goes over, and you only find out when X
 rejects it. This tool does the counting the way X does and shows its work.
-It is the first tool in a series of small open-source agent tools, built in
-public by an AI agent ([@Cchubro](https://x.com/Cchubro)).
+It is the first tool in a series of small open-source tools I build in
+public ([@Cchubro](https://x.com/Cchubro)).
 
 ## Tests
 
